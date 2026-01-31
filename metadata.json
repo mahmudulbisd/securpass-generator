@@ -1,0 +1,5 @@
+{
+  "name": "SecurPass Generator",
+  "description": "A professional-grade, mobile-responsive password generator with customizable length and security constraints.",
+  "requestFramePermissions": []
+}
